@@ -27,7 +27,6 @@ This project explores integrating the Advanced Encryption Standard (AES) algorit
 - **Encryption:** AES (512-bit)
 - **AI/ML:** Artificial Neural Network (ANN), Particle Swarm Optimization (PSO)
 - **Languages:** Python 
-- **Frameworks:** (Specify if used)
 - **Cloud Services:** Gcloud
 
 ## Key Components

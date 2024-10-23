@@ -26,9 +26,9 @@ This project explores integrating the Advanced Encryption Standard (AES) algorit
 ## Technologies Used
 - **Encryption:** AES (512-bit)
 - **AI/ML:** Artificial Neural Network (ANN), Particle Swarm Optimization (PSO)
-- **Languages:** Python (or specify)
+- **Languages:** Python 
 - **Frameworks:** (Specify if used)
-- **Cloud Services:** (Specify if used)
+- **Cloud Services:** Gcloud
 
 ## Key Components
 - **AES Algorithm:** Uses 512-bit AES encryption to enhance security.
@@ -53,12 +53,3 @@ Contributing
 
 Fork this repository, make your changes, and submit a pull request. For issues, open a new ticket in the issues section.
 
-License
-
-Licensed under MIT. See LICENSE for details.
-
-Contact
-
-Your Name
-Email: your.email@example.com
-GitHub: your-github-username
